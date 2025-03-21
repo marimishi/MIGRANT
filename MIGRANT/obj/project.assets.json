@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sony\\.nuget\\packages\\": {}
+    "C:\\Users\\nbobo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sony\\Desktop\\MIGRANT\\MIGRANT\\MIGRANT.csproj",
+      "projectUniqueName": "D:\\Учеба\\ПИС\\MIGRANT\\MIGRANT\\MIGRANT.csproj",
       "projectName": "MIGRANT",
-      "projectPath": "C:\\Users\\Sony\\Desktop\\MIGRANT\\MIGRANT\\MIGRANT.csproj",
-      "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sony\\Desktop\\MIGRANT\\MIGRANT\\obj\\",
+      "projectPath": "D:\\Учеба\\ПИС\\MIGRANT\\MIGRANT\\MIGRANT.csproj",
+      "packagesPath": "C:\\Users\\nbobo\\.nuget\\packages\\",
+      "outputPath": "D:\\Учеба\\ПИС\\MIGRANT\\MIGRANT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sony\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\nbobo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
