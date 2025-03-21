@@ -11,3 +11,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/MIGRANT/obj/project.nuget.cache
+/MIGRANT/obj/Debug/net8.0/MIGRANT.AssemblyInfoInputs.cache
+/MIGRANT/obj/Debug/net8.0/MIGRANT.AssemblyInfo.cs
+/MIGRANT/obj/Debug/net8.0/MIGRANT.assets.cache
