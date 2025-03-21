@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIGRANT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab1e8b3cdab15e2c92a63210f01d084f6d1b4a55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+874769b35e6bfe2a5000e17f39c1fd3d891ed57a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIGRANT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIGRANT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
